@@ -8,7 +8,7 @@
 * [Annotated pipelines](annotated-pipelines.md)
 * [Continuous analysis](continuous-analysis.md)
 * [Data provenance](data-provenance.md)
-* Data provenance links
+* [Data provenance links](data-provenance-links.md)
 * Comparing results between analysis runs
 * Quick runs, optional runs
 * Caching intermediate results
