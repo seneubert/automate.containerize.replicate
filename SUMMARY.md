@@ -4,7 +4,7 @@
 * [Data analysis pipeline](data-analysis-pipeline.md)
 * [Dependencies in analysis pipelines](dependencies-in-analysis-pipelines.md)
 * [Tracking changes](tracking-changes.md)
-* Expensive processing steps
+* [Expensive processing steps](expensive-processing-steps.md)
 * [Annotated pipelines](annotated-pipelines.md)
 * [Continuous analysis](continuous-analysis.md)
 * [Data provenance](data-provenance.md)
