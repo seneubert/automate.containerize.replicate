@@ -11,7 +11,7 @@
 * [Data provenance links](data-provenance-links.md)
 * [Comparing results between analysis runs](comparing-results-between-analysis-runs.md)
 * [Quick runs, optional runs](quick-runs-optional-runs.md)
-* Caching intermediate results
+* [Caching intermediate results](caching-intermediate-results.md)
 * Multiple developers \(and CI\)
 * Authentication, privileges, data ownership
 * Distributed data sets
