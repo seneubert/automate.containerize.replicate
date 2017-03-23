@@ -16,5 +16,5 @@
 * [Authentication, privileges, data ownership](authentication-privileges-data-ownership.md)
 * [Distributed data sets](distributed-data-sets.md)
 * [Code repository](code-repository.md)
-* Analysis dossier
+* [Analysis dossier](analysis-dossier.md)
 
