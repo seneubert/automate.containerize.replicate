@@ -10,7 +10,7 @@
 * [Data provenance](data-provenance.md)
 * [Data provenance links](data-provenance-links.md)
 * [Comparing results between analysis runs](comparing-results-between-analysis-runs.md)
-* Quick runs, optional runs
+* [Quick runs, optional runs](quick-runs-optional-runs.md)
 * Caching intermediate results
 * Multiple developers \(and CI\)
 * Authentication, privileges, data ownership
