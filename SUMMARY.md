@@ -13,7 +13,7 @@
 * [Quick runs, optional runs](quick-runs-optional-runs.md)
 * [Caching intermediate results](caching-intermediate-results.md)
 * [Multiple developers \(and CI\)](multiple-developers-and-ci.md)
-* Authentication, privileges, data ownership
+* [Authentication, privileges, data ownership](authentication-privileges-data-ownership.md)
 * Distributed data sets
 * Code repository
 * Analysis dossier
