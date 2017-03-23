@@ -1,14 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
 * [Data analysis pipeline](data-analysis-pipeline.md)
-* Dependencies in analysis pipelines
-* Tracking changes
+* [Dependencies in analysis pipelines](dependencies-in-analysis-pipelines.md)
+* [Tracking changes](tracking-changes.md)
 * Expensive processing steps
-* Annotated pipelines
-* Continuous analysis
+* [Annotated pipelines](annotated-pipelines.md)
+* [Continuous analysis](continuous-analysis.md)
 * [Data provenance](data-provenance.md)
 * Data provenance links
 * Comparing results between analysis runs
@@ -17,4 +15,6 @@
 * Multiple developers \(and CI\)
 * Authentication, privileges, data ownership
 * Distributed data sets
+* Code repository
+* Analysis dossier
 
