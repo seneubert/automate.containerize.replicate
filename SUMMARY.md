@@ -12,7 +12,7 @@
 * [Comparing results between analysis runs](comparing-results-between-analysis-runs.md)
 * [Quick runs, optional runs](quick-runs-optional-runs.md)
 * [Caching intermediate results](caching-intermediate-results.md)
-* Multiple developers \(and CI\)
+* [Multiple developers \(and CI\)](multiple-developers-and-ci.md)
 * Authentication, privileges, data ownership
 * Distributed data sets
 * Code repository
