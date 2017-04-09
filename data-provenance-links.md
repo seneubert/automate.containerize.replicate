@@ -3,6 +3,7 @@
 ## Context
 
 ## Problem
+We can't keep plots and tables in a database all the time to make sure we have the meta-data at hand. Provenance data has to become part of the plot file.
 
 ## Solution
 
