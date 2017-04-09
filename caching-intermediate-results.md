@@ -1,4 +1,11 @@
-Useful to avoid unecessary work
+# Caching intermediate results
 
-needs carful dependency management
+## Context
 
+## Problem
+
+## Solution
+
+## Related patterns
+* [Analysis pipelines](data-analysis-pipeline.md)
+* [Expensive processing steps](expensive-processing-steps.md)
