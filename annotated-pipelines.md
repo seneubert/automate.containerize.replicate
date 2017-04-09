@@ -1,8 +1,9 @@
-# Analysis pipelines
+# Annotated pipelines
 
 ## Context
 
 ## Problem
+Analysis pipelines can become very complicated. How can you use the pipeline system to get information about the analysis?
 
 ## Solution
 
