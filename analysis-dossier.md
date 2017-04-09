@@ -1,6 +1,6 @@
 # Analysis dossier
 ## Context
-Once an analysis can be run automatically by using an [analysis pipeline](analysis-pipelines.md) it becomes easy to generate results like plots, tables etc in large numbers. Furthermore the results can of course change after a change was made to the analysis code, the pipeline or the input data. Your results are tied to the version of the analysis they were produced with.
+Once an analysis can be run automatically by using an [analysis pipeline](data-analysis-pipeline.md) it becomes easy to generate results like plots, tables etc in large numbers. Furthermore the results can of course change after a change was made to the analysis code, the pipeline or the input data. Your results are tied to the version of the analysis they were produced with.
 
 ## Problem
 How do you keep track of the versions of results that your pipeline is producing?
@@ -13,7 +13,7 @@ The obvious solution is to store the results in a repository and the immediate c
 Analysis results are commited to a separate repository, which we call *analysis dossier*.
 
 ## Related patterns
-* [Analysis pipeline](analysis-pipelines.md) 
+* [Analysis pipeline](data-analysis-pipeline.md) 
 * [Continuous interation](continuous-analysis.md)
 * [Data provenance](data-provenance.md)
 * [Data provenance links](data-provenance-links.md)
