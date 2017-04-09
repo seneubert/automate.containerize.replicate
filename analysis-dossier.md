@@ -13,6 +13,7 @@ The obvious solution is to store the results in a repository and the immediate c
 Analysis results are commited to a separate repository, which we call *analysis dossier*.
 
 ## Related patterns
+* [Code repository](code-repository.md)
 * [Analysis pipeline](data-analysis-pipeline.md) 
 * [Continuous interation](continuous-analysis.md)
 * [Data provenance](data-provenance.md)
