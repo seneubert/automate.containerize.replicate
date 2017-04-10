@@ -1,9 +1,10 @@
 # Data provenance links
 
 ## Context
+The final artifacts produced by an analysis pipeline, like plots and tables, will leave the controlled environment of the workflow and end up in presentations or documents.
 
 ## Problem
-We can't keep plots and tables in a database all the time to make sure we have the meta-data at hand. Provenance data has to become part of the plot file.
+How can we trace back how an artifact was created?
 
 ## Solution
 
