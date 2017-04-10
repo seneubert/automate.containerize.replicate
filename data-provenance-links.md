@@ -34,4 +34,5 @@ To display the information do:
 ```
 exiv2 pr myfile.png
 exiftool myfile.pdf
+exiftool myfile.png # also works
 ```
