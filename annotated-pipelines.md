@@ -7,4 +7,6 @@ Analysis pipelines can become very complicated. How can you use the pipeline sys
 
 ## Solution
 
+
 ## Related patterns
+* [Analysis pipeline](data-analysis-pipeline.md)
