@@ -33,5 +33,5 @@ For a complete list of variables see [here](https://docs.gitlab.com/ce/ci/variab
 To display the information do:
 ```
 exiv2 pr myfile.png
-exiftool pr myfile.pdf
+exiftool myfile.pdf
 ```
