@@ -13,3 +13,5 @@ Careful: not straight forward if there are several forks.
 
 
 ## Related patterns
+* [Analysis pipeline](data-analysis-pipeline.md)
+* [Caching of intermediate results](caching-intermediate-results.md)
