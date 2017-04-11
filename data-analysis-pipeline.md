@@ -18,7 +18,15 @@ An analysis pipeline tool usually consists of a workflow specification language 
 `GNU make` is probably the most used pipeline tool. It is tailored to software build pipelines (but can be appropriated for analysis workflows as well). 
 
 Here we collect a set of essential features of pipeline tools:
-* Evaluate dependencies in the pipeline graph.
+* Human and machine readable description of analysis pipeline
+* Scripting or wildcards to handle multiple inputs/outputs
+* Evaluate dependencies in the pipeline graph
+* Allow caching of intermediate results and incremental updating of the pipeline
+* Analysis code is agnostic of pipeline tool. Pipeline works as a scaffolding to execute the analysis code in the right order.
+* Support for parallel computing architectures (automatic parallelization of pipeline tasks)
 
 
 ## Related patterns
+* [Annotated analysis pipelines](annotated-pipelines.md)
+* [Caching of intermediate results](caching-intermediate-results.md)
+* [Dependency management](dependencies-in-analysis-pipelines.md)
