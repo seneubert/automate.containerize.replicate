@@ -11,7 +11,7 @@ How do you automate the execution of all analysis steps in the right order?
 If you need to rerun the analysis after a change was made, how do you make sure only the minimum amount of work is done to update the result?
 
 ## Solution
-A large number of tools exist to specify and automatically execute analysis pipelines. An extensive list of examples is available at the [Common Workflow Language site]( https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
+A large number of tools exist to specify and automatically execute analysis pipelines. An extensive list of examples is available at the [awesome pipeline repo](https://github.com/pditommaso/awesome-pipeline)
 
 An analysis pipeline tool usually consists of a workflow specification language and an executor. The specification language is used to describe the pipeline in machine (and human) readable form. The executor interpets the pipeline specification, builds a dependency tree and executes the pipeline.
 
@@ -30,3 +30,7 @@ Here we collect a set of essential features of pipeline tools:
 * [Annotated analysis pipelines](annotated-pipelines.md)
 * [Caching of intermediate results](caching-intermediate-results.md)
 * [Dependency management](dependencies-in-analysis-pipelines.md)
+
+
+## Examples
+
