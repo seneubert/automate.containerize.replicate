@@ -17,4 +17,5 @@
 * [Distributed data sets](distributed-data-sets.md)
 * [Code repository](code-repository.md)
 * [Analysis dossier](analysis-dossier.md)
+* [Containerize](containerize.md)
 
