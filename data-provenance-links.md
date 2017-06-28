@@ -37,3 +37,9 @@ exiv2 pr myfile.png
 exiftool myfile.pdf
 exiftool myfile.png # also works
 ```
+
+Installing exiftool using conda:
+```
+conda install -c conda-forge perl=5.22.0
+conda install -f -c bioconda perl-image-exiftool=10.40 
+```
